@@ -1,4 +1,4 @@
-# leetcode
+# LeetCode Solutions
 These are solutions for leetcode problems written in Python. Problems are from [LeetCode China](https://leetcode-cn.com/problems/two-sum).
 
 ## 1.Two Sum
@@ -10,13 +10,19 @@ These are solutions for leetcode problems written in Python. Problems are from [
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 <br>Solution Code: [2_add_two_numbers.py](./2_add_two_numbers.py)
 
-## 3. Longest Substring Without Repeating Characters
+## 3.Longest Substring Without Repeating Characters
 <br>Given a string, find the length of the longest substring without repeating characters.
 <br>Solution Code: [3_longest_substring_without_repeat_chars.py](./3_longest_substring_without_repeat_chars.py)
 
-## 4. Median of Two Sorted Arrays
+## 4.Median of Two Sorted Arrays
 <br>There are two sorted arrays nums1 and nums2 of size m and n respectively.
 Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
 You may assume nums1 and nums2 cannot be both empty.
 <br>Solution Code: [4_median_of_two_sorted_arrays.py](./4_median_of_two_sorted_arrays.py)
+
+## 5.Longest Palindromic Substring
+<br>Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000. (A palindromic string is a string which equals to its reverse).
+<br>Solution Code: [5_longest_palindromic_substring.py](./5_longest_palindromic_substring.py). I use dynamic programming, but the solution seems a bit slow, only beats about 30% users.
+
+
 
