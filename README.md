@@ -24,5 +24,14 @@ You may assume nums1 and nums2 cannot be both empty.
 <br>Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000. (A palindromic string is a string which equals to its reverse).
 <br>Solution Code: [5_longest_palindromic_substring.py](./5_longest_palindromic_substring.py). I use dynamic programming, but the solution seems a bit slow, only beats about 30% users.
 
+## 6.ZigZag Conversion
+<br>The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
+<br>    P   A   H   N
+<br>    A P L S I I G
+<br>    Y   I   R
+<br>And then read line by line: "PAHNAPLSIIGYIR"
+<br>Write the code that will take a string and make this conversion given a number of rows
+<br>Solution Code: [6_zigzag_conversion.py](./6_zigzag_conversion.py). 
+
 
 
