@@ -33,5 +33,9 @@ You may assume nums1 and nums2 cannot be both empty.
 <br>Write the code that will take a string and make this conversion given a number of rows
 <br>Solution Code: [6_zigzag_conversion.py](./6_zigzag_conversion.py). 
 
+## 7.Reverse Integer
+<br>Given a 32-bit signed integer, reverse digits of an integer.
+<br>Solution Code: [7_reverse_integer.py](./7_reverse_integer.py). 
+
 
 
