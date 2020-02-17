@@ -37,5 +37,9 @@ You may assume nums1 and nums2 cannot be both empty.
 <br>Given a 32-bit signed integer, reverse digits of an integer.
 <br>Solution Code: [7_reverse_integer.py](./7_reverse_integer.py). 
 
+## 9.Palindrome Number
+<br>Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+<br>Solution Code: [9_palindrome_number.py](./9_palindrome_number.py). 
+
 
 
