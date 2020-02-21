@@ -53,6 +53,16 @@ You may assume nums1 and nums2 cannot be both empty.
 <br>Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
 <br>Solution Code: [9_palindrome_number.py](./9_palindrome_number.py). 
 
+## 10.Regular Expression Matching
+<br>Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.
+<br>'.' Matches any single character.
+<br>'*' Matches zero or more of the preceding element.
+<br>The matching should cover the entire input string (not partial).
+<br>**Note:**
+* s could be empty and contains only lowercase letters a-z.
+* p could be empty and contains only lowercase letters a-z, and characters like . or *.
+<br>Solution Code: [10_regular_expression_matching.py](./10_regular_expression_matching.py). 
+
 ## 13.Roman to Integer
 <br>Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 | Symbol | Value |
