@@ -55,12 +55,13 @@ You may assume nums1 and nums2 cannot be both empty.
 
 ## 10.Regular Expression Matching
 <br>Given an input string (s) and a pattern (p), implement regular expression matching with support for '.' and '*'.
-<br>'.' Matches any single character.
-<br>'*' Matches zero or more of the preceding element.
+<br>&emsp;&emsp;'.' Matches any single character.
+<br>&emsp;&emsp;'*' Matches zero or more of the preceding element.
 <br>The matching should cover the entire input string (not partial).
 <br>**Note:**
 * s could be empty and contains only lowercase letters a-z.
 * p could be empty and contains only lowercase letters a-z, and characters like . or *.
+
 <br>Solution Code: [10_regular_expression_matching.py](./10_regular_expression_matching.py). 
 
 ## 13.Roman to Integer
