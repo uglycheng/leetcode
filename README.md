@@ -64,6 +64,13 @@ You may assume nums1 and nums2 cannot be both empty.
 
 <br>Solution Code: [10_regular_expression_matching.py](./10_regular_expression_matching.py). 
 
+## 11.Container with Most Water
+<br>Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
+<br>**Note:** You may not slant the container and n is at least 2.
+![question_11](./fig/question_11.jpg)
+<br>The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+<br>Solution Code: [11_container_with_most_water.py](./11_container_with_most_water.py). 
+
 ## 13.Roman to Integer
 <br>Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 | Symbol | Value |
