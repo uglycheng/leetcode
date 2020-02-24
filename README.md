@@ -120,6 +120,13 @@ For example, two is written as II in Roman numeral, just two one's added toget
 <br>Write a function to find the longest common prefix string amongst an array of strings.If there is no common prefix, return an empty string "".
 <br>Solution Code: [14_longest_common_prefix.py](./14_longest_common_prefix.py). 
 
+## 15.3Sum
+<br>Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+<br>**Note:** The solution set must not contain duplicate triplets.
+<br>Solution Code: [15_3sum.py](./15_3sum.py). 
+
+
+
 
 
 
