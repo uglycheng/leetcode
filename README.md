@@ -125,6 +125,10 @@ For example, two is written as II in Roman numeral, just two one's added toget
 <br>**Note:** The solution set must not contain duplicate triplets.
 <br>Solution Code: [15_3sum.py](./15_3sum.py). 
 
+## 16.3Sum Closest
+<br>Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
+<br>Solution Code: [16_3sum_closest.py](./16_3sum_closest.py). 
+
 
 
 
