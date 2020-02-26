@@ -129,6 +129,15 @@ For example, two is written as II in Roman numeral, just two one's added toget
 <br>Given an array nums of n integers and an integer target, find three integers in nums such that the sum is closest to target. Return the sum of the three integers. You may assume that each input would have exactly one solution.
 <br>Solution Code: [16_3sum_closest.py](./16_3sum_closest.py). 
 
+## 17.Letter Combinations of a Phone Number
+<br>Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent.
+<br>A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
+![question_17](./fig/question_17.png)
+<br>Solution Code: [17_letter_combinations_of_a_phone_number.py](./17_letter_combinations_of_a_phone_number.py). 
+
+
+
+
 
 
 
