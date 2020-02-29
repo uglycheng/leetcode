@@ -141,6 +141,17 @@ For example, two is written as II in Roman numeral, just two one's added toget
 <br>**Note:** The solution set must not contain duplicate triplets.
 <br>Solution Code: [18_4sum.py](./18_4sum.py). 
 
+## 19.Remove Nth Node From End of List
+<br>Given a linked list, remove the n-th node from the end of list and return its head.
+<br>**Example:**
+<br>Given linked list: 1->2->3->4->5, and n = 2.
+<br>After removing the second node from the end, the linked list becomes 1->2->3->5.
+<br>**Note:**
+Given n will always be valid.
+<br>**Follow up:**
+<br>Could you do this in one pass?
+<br>Solution Code: [19._remove_nth_node_from_end_of _list.py](./19._remove_nth_node_from_end_of _list.py). 
+
 
 
 
