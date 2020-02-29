@@ -157,6 +157,7 @@ Given n will always be valid.
 <br>An input string is valid if:
 1. Open brackets must be closed by the same type of brackets.
 2. Open brackets must be closed in the correct order.
+
 <br>Note that an empty string is also considered valid.
 <br>Solution Code: [20_valid_parentheses.py](./20_valid_parentheses.py). 
 
