@@ -150,7 +150,7 @@ For example, two is written as II in Roman numeral, just two one's added toget
 Given n will always be valid.
 <br>**Follow up:**
 <br>Could you do this in one pass?
-<br>Solution Code: [19._remove_nth_node_from_end_of _list.py](./19._remove_nth_node_from_end_of _list.py). 
+<br>Solution Code: [19._remove_nth_node_from_end_of_list.py](./19._remove_nth_node_from_end_of_list.py). 
 
 
 
