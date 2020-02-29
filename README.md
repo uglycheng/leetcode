@@ -152,6 +152,15 @@ Given n will always be valid.
 <br>Could you do this in one pass?
 <br>Solution Code: [19._remove_nth_node_from_end_of_list.py](./19._remove_nth_node_from_end_of_list.py). 
 
+## 20.Valid Parentheses
+<br>Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+<br>An input string is valid if:
+1. Open brackets must be closed by the same type of brackets.
+2. Open brackets must be closed in the correct order.
+<br>Note that an empty string is also considered valid.
+<br>Solution Code: [20_valid_parentheses.py](./20_valid_parentheses.py). 
+
+
 
 
 
