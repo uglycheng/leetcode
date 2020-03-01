@@ -162,6 +162,10 @@ Given n will always be valid.
 <br>Solution Code: [20_valid_parentheses.py](./20_valid_parentheses.py). 
 
 
+## 21.Merge Two Sorted Lists
+<br>Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+<br>Solution Code: [21_merge_two_sorted_lists.py](./21_merge_two_sorted_lists.py). 
+
 
 
 
