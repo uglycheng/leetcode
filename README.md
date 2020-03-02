@@ -167,7 +167,17 @@ Given n will always be valid.
 <br>Solution Code: [21_merge_two_sorted_lists.py](./21_merge_two_sorted_lists.py). 
 
 
-
+## 22.Generate Parentheses
+<br>Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+<br>For example, given n = 3, a solution set is:
+<br>[
+  "((()))",
+  "(()())",
+  "(())()",
+  "()(())",
+  "()()()"
+]
+<br>Solution Code: [22_generate_parentheses.py](./22_generate_parentheses.py). 
 
 
 
