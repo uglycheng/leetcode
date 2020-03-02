@@ -170,7 +170,7 @@ Given n will always be valid.
 ## 22.Generate Parentheses
 <br>Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 <br>For example, given n = 3, a solution set is:
-<br>[
+[
   "((()))",
   "(()())",
   "(())()",
