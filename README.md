@@ -179,6 +179,10 @@ Given n will always be valid.
 ]
 <br>Solution Code: [22_generate_parentheses.py](./22_generate_parentheses.py). 
 
+## 24.Swap Nodes in Pairs
+<br>Given a linked list, swap every two adjacent nodes and return its head.
+You may **not** modify the values in the list's nodes, only nodes itself may be changed.
+<br>Solution Code: [24_swap_nodes_in_pairs.py](./24_swap_nodes_in_pairs.py). 
 
 
 
