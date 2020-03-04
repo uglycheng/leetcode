@@ -185,4 +185,10 @@ You may **not** modify the values in the list's nodes, only nodes itself may be 
 <br>Solution Code: [24_swap_nodes_in_pairs.py](./24_swap_nodes_in_pairs.py). 
 
 
+## 26.Remove Duplicates from Sorted Array
+<br>Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
+<br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+<br>Solution Code: [26_remove_duplicates_from_sorted_array.py](./26_remove_duplicates_from_sorted_array.py). 
 
+## 原来这就是螺蛳粉啊 是这个吗？
+![螺蛳粉](./fig/luosifen.jpg)
