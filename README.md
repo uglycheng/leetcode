@@ -195,5 +195,5 @@ You may **not** modify the values in the list's nodes, only nodes itself may be 
 <br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 <br>Solution Code: [26_remove_duplicates_from_sorted_array.py](./26_remove_duplicates_from_sorted_array.py). 
 
-## 原来这就是螺蛳粉啊 是这个吗？
-![螺蛳粉](./fig/luosifen.jpg)
+## 虞美人盛开的山坡 强力推荐呀！
+![虞美人盛开的山坡](./fig/laiziyumeirenzhipo.png)
