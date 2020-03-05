@@ -179,6 +179,11 @@ Given n will always be valid.
 ]
 <br>Solution Code: [22_generate_parentheses.py](./22_generate_parentheses.py). 
 
+## 23.Merge k Sorted Lists
+<br>Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+<br>Solution Code: [23_merge_k_sorted_lists.py](./23_merge_k_sorted_lists.py). 
+
+
 ## 24.Swap Nodes in Pairs
 <br>Given a linked list, swap every two adjacent nodes and return its head.
 You may **not** modify the values in the list's nodes, only nodes itself may be changed.
