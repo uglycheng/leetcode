@@ -200,7 +200,6 @@ k is a positive integer and is less than or equal to the length of the linked li
 
 * Only constant extra memory is allowed.
 * You may not alter the values in the list's nodes, only nodes itself may be changed.
-
 <br>Solution Code: [25_reverse_nodes_in_k-group.py](./25_reverse_nodes_in_k-group.py). 
 
 ## 26.Remove Duplicates from Sorted Array
