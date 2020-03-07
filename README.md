@@ -189,11 +189,29 @@ Given n will always be valid.
 You may **not** modify the values in the list's nodes, only nodes itself may be changed.
 <br>Solution Code: [24_swap_nodes_in_pairs.py](./24_swap_nodes_in_pairs.py). 
 
+## 25.Reverse Nodes in k-Group
+<br>Given a linked list, reverse the nodes of a linked list k at a time and return its modified list.
+k is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of k then left-out nodes in the end should remain as it is.
+<br>**Example:**
+<br>Given this linked list: 1->2->3->4->5
+<br>For k = 2, you should return: 2->1->4->3->5
+<br>For k = 3, you should return: 3->2->1->4->5
+<br>**Note:**
+
+* Only constant extra memory is allowed.
+* You may not alter the values in the list's nodes, only nodes itself may be changed.
+
+<br>Solution Code: [25_reverse_nodes_in_k-group.py](./25_reverse_nodes_in_k-group.py). 
 
 ## 26.Remove Duplicates from Sorted Array
 <br>Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 <br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 <br>Solution Code: [26_remove_duplicates_from_sorted_array.py](./26_remove_duplicates_from_sorted_array.py). 
 
-## 虞美人盛开的山坡 强力推荐呀！
-![虞美人盛开的山坡](./fig/laiziyumeirenzhipo.png)
+## 27.Remove Element
+<br>Given an array nums and a value val, remove all instances of that value in-place and return the new length.
+<br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+<br>The order of elements can be changed. It doesn't matter what you leave beyond the new length.
+<br>Solution Code: [27_remove_element.py](./27_remove_element.py). 
+
+
