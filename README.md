@@ -1,6 +1,9 @@
 # LeetCode Solutions
 These are solutions for leetcode problems written in Python. Problems are from [LeetCode China](https://leetcode-cn.com/problems/two-sum).
 
+## 节日快乐 快好起来吧！！！
+![返老还童](./fig/fanlaohuantong.png)
+
 ## 1.Two Sum
 <br>Given an array of integers, return indices of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice.
 <br>Solution Code: [1_two_sum.py](./1_two_sum.py)
