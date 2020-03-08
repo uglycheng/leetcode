@@ -214,4 +214,11 @@ k is a positive integer and is less than or equal to the length of the linked li
 <br>The order of elements can be changed. It doesn't matter what you leave beyond the new length.
 <br>Solution Code: [27_remove_element.py](./27_remove_element.py). 
 
+## 28.Implement strStr()
+<br>Implement strStr().Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+<br>**Clarification:**
+<br>What should we return when needle is an empty string? This is a great question to ask during an interview.
+<br>For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
+<br>Solution Code: [28_implement_strStr().py](./28_implement_strStr().py). 
+
 
