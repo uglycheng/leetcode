@@ -224,4 +224,16 @@ k is a positive integer and is less than or equal to the length of the linked li
 <br>For the purpose of this problem, we will return 0 when needle is an empty string. This is consistent to C's strstr() and Java's indexOf().
 <br>Solution Code: [28_implement_strStr().py](./28_implement_strStr().py). 
 
+## 29.Divide Two Integers
+<br>Given two integers dividend and divisor, divide two integers without using multiplication, division and mod operator. Return the quotient after dividing dividend by divisor. The integer division should truncate toward zero.
+<br>**Note:**
+
+* Both dividend and divisor will be 32-bit signed integers.
+* The divisor will never be 0.
+* Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2<sup>31</sup>,  2<sup>31</sup> − 1]. For the purpose of this problem, assume that your function returns 2<sup>31</sup> − 1 when the division result overflows.
+
+<br>Solution Code: [29_divide_two_integers.py](./29_divide_two_integers.py). 
+
+
+
 
