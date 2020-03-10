@@ -233,6 +233,9 @@ k is a positive integer and is less than or equal to the length of the linked li
 
 <br>Solution Code: [29_divide_two_integers.py](./29_divide_two_integers.py). 
 
+## 30.Substring with Concatenation of All Words
+<br>You are given a string, s, and a list of words, words, that are all of the same length. Find all starting indices of substring(s) in s that is a concatenation of each word in words exactly once and without any intervening characters.
+<br>Solution Code: [30_substring_with_concatenation_of_all_words.py](./30_substring_with_concatenation_of_all_words.py). 
 
 
 
