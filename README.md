@@ -1,7 +1,7 @@
 # LeetCode Solutions
 These are solutions for leetcode problems written in Python. Problems are from [LeetCode China](https://leetcode-cn.com/problems/two-sum).
 
-## 早睡牙龈会好的
+## 不要刚好转就放纵啊555
 
 ## 1.Two Sum
 <br>Given an array of integers, return indices of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -236,6 +236,18 @@ k is a positive integer and is less than or equal to the length of the linked li
 ## 30.Substring with Concatenation of All Words
 <br>You are given a string, s, and a list of words, words, that are all of the same length. Find all starting indices of substring(s) in s that is a concatenation of each word in words exactly once and without any intervening characters.
 <br>Solution Code: [30_substring_with_concatenation_of_all_words.py](./30_substring_with_concatenation_of_all_words.py). 
+
+## 31.Next Permutation
+<br>Implement next permutation, which rearranges numbers into the lexicographically next greater permutation of numbers.
+If such arrangement is not possible, it must rearrange it as the lowest possible order (ie, sorted in ascending order).
+The replacement must be in-place and use only constant extra memory.
+<br>This problem requires you to find the smallest number that larger than the given number by rearranging the order of numbers on each digit.
+<br>Solution Code: [32_longest_valid_parentheses.py](./32_longest_valid_parentheses.py). 
+
+## 32.Longest Valid Parentheses
+<br>Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+<br>Solution Code: [31_next_permutation.py](./31_next_permutation.py). 
+
 
 
 
