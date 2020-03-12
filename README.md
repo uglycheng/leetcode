@@ -242,11 +242,12 @@ k is a positive integer and is less than or equal to the length of the linked li
 If such arrangement is not possible, it must rearrange it as the lowest possible order (ie, sorted in ascending order).
 The replacement must be in-place and use only constant extra memory.
 <br>This problem requires you to find the smallest number that larger than the given number by rearranging the order of numbers on each digit.
-<br>Solution Code: [32_longest_valid_parentheses.py](./32_longest_valid_parentheses.py). 
+<br>Solution Code: [31_next_permutation.py](./31_next_permutation.py). 
+
 
 ## 32.Longest Valid Parentheses
 <br>Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
-<br>Solution Code: [31_next_permutation.py](./31_next_permutation.py). 
+<br>Solution Code: [32_longest_valid_parentheses.py](./32_longest_valid_parentheses.py). 
 
 
 
