@@ -1,7 +1,7 @@
 # LeetCode Solutions
 These are solutions for leetcode problems written in Python. Problems are from [LeetCode China](https://leetcode-cn.com/problems/two-sum).
 
-## 不要刚好转就放纵啊555
+## 去吃吃吃了嘿嘿
 
 ## 1.Two Sum
 <br>Given an array of integers, return indices of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -251,7 +251,7 @@ The replacement must be in-place and use only constant extra memory.
 
 ## 33.Search in Rotated Sorted Array
 <br>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]). You are given a target value to search. If found in the array return its index, otherwise return -1. You may assume no duplicate exists in the array. Your algorithm's runtime complexity must be in the order of O(log n).
-<<br>Solution Code: [33_search_in_rotated_sorted_array.py](./33_search_in_rotated_sorted_array.py).
+<br>Solution Code: [33_search_in_rotated_sorted_array.py](./33_search_in_rotated_sorted_array.py).
 
 
 
