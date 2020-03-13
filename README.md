@@ -249,6 +249,9 @@ The replacement must be in-place and use only constant extra memory.
 <br>Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
 <br>Solution Code: [32_longest_valid_parentheses.py](./32_longest_valid_parentheses.py). 
 
+## 33.Search in Rotated Sorted Array
+<br>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]). You are given a target value to search. If found in the array return its index, otherwise return -1. You may assume no duplicate exists in the array. Your algorithm's runtime complexity must be in the order of O(log n).
+<<br>Solution Code: [33_search_in_rotated_sorted_array.py](./33_search_in_rotated_sorted_array.py).
 
 
 
