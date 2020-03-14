@@ -253,5 +253,8 @@ The replacement must be in-place and use only constant extra memory.
 <br>Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand. (i.e., [0,1,2,4,5,6,7] might become [4,5,6,7,0,1,2]). You are given a target value to search. If found in the array return its index, otherwise return -1. You may assume no duplicate exists in the array. Your algorithm's runtime complexity must be in the order of O(log n).
 <br>Solution Code: [33_search_in_rotated_sorted_array.py](./33_search_in_rotated_sorted_array.py).
 
+## 34.Find First and Last Position of Element in Sorted Array
+<br>Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value. Your algorithm's runtime complexity must be in the order of O(log n). If the target is not found in the array, return [-1, -1].
+<br>Solution Code: [34_find_first_and_last_position_of_element_in_sorted_array.py](./34_find_first_and_last_position_of_element_in_sorted_array.py).
 
 
