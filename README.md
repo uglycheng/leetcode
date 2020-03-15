@@ -1,8 +1,6 @@
 # LeetCode Solutions
 These are solutions for leetcode problems written in Python. Problems are from [LeetCode China](https://leetcode-cn.com/problems/two-sum).
 
-## 去吃吃吃了嘿嘿
-
 ## 1.Two Sum
 <br>Given an array of integers, return indices of the two numbers such that they add up to a specific target.You may assume that each input would have exactly one solution, and you may not use the same element twice.
 <br>Solution Code: [1_two_sum.py](./1_two_sum.py)
@@ -256,5 +254,9 @@ The replacement must be in-place and use only constant extra memory.
 ## 34.Find First and Last Position of Element in Sorted Array
 <br>Given an array of integers nums sorted in ascending order, find the starting and ending position of a given target value. Your algorithm's runtime complexity must be in the order of O(log n). If the target is not found in the array, return [-1, -1].
 <br>Solution Code: [34_find_first_and_last_position_of_element_in_sorted_array.py](./34_find_first_and_last_position_of_element_in_sorted_array.py).
+
+## 35.Search Insert Position
+<br>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You may assume no duplicates in the array.
+<br>Solution Code: [35_search_insert_position.py](./35_search_insert_position.py).
 
 
