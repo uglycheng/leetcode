@@ -259,4 +259,20 @@ The replacement must be in-place and use only constant extra memory.
 <br>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You may assume no duplicates in the array.
 <br>Solution Code: [35_search_insert_position.py](./35_search_insert_position.py).
 
+## 38.Count and Say
+<br>The count-and-say sequence is the sequence of integers with the first five terms as following:
+1. 1
+2. 11
+3. 21
+4. 1211
+5. 111221
+
+<br>1 is read off as "one 1" or 11.
+<br>11 is read off as "two 1s" or 21.
+<br>21 is read off as "one 2, then one 1" or 1211.
+<br>Given an integer n where 1 ≤ n ≤ 30, generate the nth term of the count-and-say sequence. You can do so recursively, in other words from the previous member read off the digits, counting the number of digits in groups of the same digit.
+<br>**Note:** Each term of the sequence of integers will be represented as a string.
+<br>Solution Code: [38_count_and_say.py](./38_count_and_say.py).
+
+
 
