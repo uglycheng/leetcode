@@ -259,6 +259,23 @@ The replacement must be in-place and use only constant extra memory.
 <br>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order. You may assume no duplicates in the array.
 <br>Solution Code: [35_search_insert_position.py](./35_search_insert_position.py).
 
+## 36.Valid Sudoku
+<br>Determine if a 9x9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
+1. Each row must contain the digits 1-9 without repetition.
+2. Each column must contain the digits 1-9 without repetition.
+3. Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repetition.
+
+<br>The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+<br>**Note:**
+
+* A Sudoku board (partially filled) could be valid but is not necessarily solvable.
+* Only the filled cells need to be validated according to the mentioned rules.
+* The given board contain only digits 1-9 and the character '.'.
+* The given board size is always 9x9.
+
+<br>Solution Code: [36_valid_sudoku.py](./36_valid_sudoku.py).
+
+
 ## 38.Count and Say
 <br>The count-and-say sequence is the sequence of integers with the first five terms as following:
 1. 1
