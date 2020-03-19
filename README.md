@@ -309,5 +309,15 @@ The replacement must be in-place and use only constant extra memory.
 <br>**Note:** Each term of the sequence of integers will be represented as a string.
 <br>Solution Code: [38_count_and_say.py](./38_count_and_say.py).
 
+## 39.Combination Sum
+<br>Given a set of candidate numbers (candidates) (without duplicates) and a target number (target), find all unique combinations in candidates where the candidate numbers sums to target.
+<br>The same repeated number may be chosen from candidates unlimited number of times.
+<br>**Note:**
+
+* All numbers (including target) will be positive integers.
+* The solution set must not contain duplicate combinations.
+
+<br>Solution Code: [39_combination_sum.py](./39_combination_sum.py).
+
 
 
