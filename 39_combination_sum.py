@@ -21,10 +21,8 @@ class Solution(object):
             pre_sum -= candidates[final_num]
             while pre_sum + candidates[i] <= target:
                 current_trial[-1] = i
-                if i < len(candidates)-1:
-                    i += 1
-                else:
-                    i += 1
+                i += 1
+                if i == len(candidates):
                     break
             if pre_sum + candidates[i-1] == target:
                 solution_set.append([candidates[k] for k in current_trial])
