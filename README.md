@@ -319,5 +319,12 @@ The replacement must be in-place and use only constant extra memory.
 
 <br>Solution Code: [39_combination_sum.py](./39_combination_sum.py).
 
+## 40.Combination Sum II
+<br>Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sums to target. Each number in candidates may only be used once in the combination.
+<br>**Note:**
 
+* All numbers (including target) will be positive integers.
+* The solution set must not contain duplicate combinations.
+
+<br>Solution Code: [40_combination_sum_2.py](./40_combination_sum_2.py).
 
