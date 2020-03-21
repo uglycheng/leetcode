@@ -328,3 +328,8 @@ The replacement must be in-place and use only constant extra memory.
 
 <br>Solution Code: [40_combination_sum_2.py](./40_combination_sum_2.py).
 
+## 41.First Missing Positive
+<br>Given an unsorted integer array, find the smallest missing positive integer.
+<br>Solution Code: [41_first_missing_positive.py](./41_first_missing_positive.py).
+
+
