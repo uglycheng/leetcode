@@ -332,4 +332,8 @@ The replacement must be in-place and use only constant extra memory.
 <br>Given an unsorted integer array, find the smallest missing positive integer.
 <br>Solution Code: [41_first_missing_positive.py](./41_first_missing_positive.py).
 
-
+## 42.Trapping Rain Water
+<br>Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+![question_42](./fig/question_42.jpg)
+<br>The above elevation map is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped. Thanks Marcos for contributing this image!
+<br>Solution Code: [42_trapping_rain_water.py](./42_trapping_rain_water.py).
