@@ -337,3 +337,7 @@ The replacement must be in-place and use only constant extra memory.
 ![question_42](./fig/question_42.jpg)
 <br>The above elevation map is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped. Thanks Marcos for contributing this image!
 <br>Solution Code: [42_trapping_rain_water.py](./42_trapping_rain_water.py).
+
+## 43.Multiply Strings
+<br>Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
+<br>Solution Code: [43_multiply_string.py](./43_multiply_string.py).
