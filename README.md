@@ -360,3 +360,6 @@ The replacement must be in-place and use only constant extra memory.
 <br>**Note:** You can assume that you can always reach the last index.
 <br>Solution Code: [45_jump_game_2.py](./45_jump_game_2.py).
 
+## 46.Permutations
+<br>Given a collection of distinct integers, return all possible permutations.
+<br>Solution Code: [46_permutations.py](./46_permutations.py).
