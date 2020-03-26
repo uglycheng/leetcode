@@ -342,3 +342,21 @@ The replacement must be in-place and use only constant extra memory.
 ## 43.Multiply Strings
 <br>Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.
 <br>Solution Code: [43_multiply_string.py](./43_multiply_string.py).
+
+## 44.Wildcard Matching
+<br>Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*'.
+<br> '?' Matches any single character.
+<br> '*' Matches any sequence of characters (including the empty sequence).
+<br>The matching should cover the entire input string (not partial).
+<br>**Note:**
+
+* s could be empty and contains only lowercase letters a-z.
+* p could be empty and contains only lowercase letters a-z, and characters like ? or *.
+
+<br>Solution Code: [44_wildcard_matching.py](./44_wildcard_matching.py).
+
+## 45.Jump Game II
+<br>Given an array of non-negative integers, you are initially positioned at the first index of the array. Each element in the array represents your maximum jump length at that position. Your goal is to reach the last index in the minimum number of jumps.
+<br>**Note:** You can assume that you can always reach the last index.
+<br>Solution Code: [45_jump_game_2.py](./45_jump_game_2.py).
+
