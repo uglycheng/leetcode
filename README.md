@@ -363,3 +363,7 @@ The replacement must be in-place and use only constant extra memory.
 ## 46.Permutations
 <br>Given a collection of distinct integers, return all possible permutations.
 <br>Solution Code: [46_permutations.py](./46_permutations.py).
+
+## 47.Permutations II
+<br>Given a collection of numbers that might contain duplicates, return all possible unique permutations.
+<br>Solution Code: [47_permutations_2.py](./47_permutations_2.py).
