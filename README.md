@@ -377,3 +377,7 @@ The replacement must be in-place and use only constant extra memory.
 ## 49.Group Anagrams
 <br>Given an array of strings, group anagrams together.
 <br>Solution Code: [49_group_anagrams.py](./49_group_anagrams.py).
+
+## 50.Power(x,n)
+<br>Implement pow(x, n), which calculates x raised to the power n (x<sup>n</sup>).
+<br>Solution Code: [50_power_x_n.py](./50_power_x_n.py).
