@@ -387,4 +387,9 @@ The replacement must be in-place and use only constant extra memory.
 Given an integer n, return all distinct solutions to the n-queens puzzle. Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space respectively.
 <br>Solution Code: [51_n_queens.py](./51_n_queens.py).
 
+## 52.N-Queens
+<br>The n-queens puzzle is the problem of placing n queens on an n×n chessboard such that no two queens attack each other. 
+Given an integer n, return the number of distinct solutions to the n-queens puzzle.
+<br>Solution Code: [52_n_queens_2.py](./52_n_queens_2.py).
+
 
