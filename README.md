@@ -393,3 +393,6 @@ Given an integer n, return the number of distinct solutions to the n-queens p
 <br>Solution Code: [52_n_queens_2.py](./52_n_queens_2.py).
 
 
+## 53.Maximum Subarray
+<br>Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+<br>Solution Code: [53_maximum_subarray.py](./53_maximum_subarray.py).
