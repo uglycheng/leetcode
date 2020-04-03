@@ -406,3 +406,7 @@ Given an integer n, return the number of distinct solutions to the n-queens p
 Each element in the array represents your maximum jump length at that position.
 Determine if you are able to reach the last index.
 <br>Solution Code: [55_jump_game.py](./55_jump_game.py).
+
+## 56.Merge Intervals
+<br>Given a collection of intervals, merge all overlapping intervals.
+<br>Solution Code: [56_merged_intervals.py](./56_merged_intervals.py).
