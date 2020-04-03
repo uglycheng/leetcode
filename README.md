@@ -400,3 +400,9 @@ Given an integer n, return the number of distinct solutions to the n-queens p
 ## 54.Spiral Matrix
 <br>Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
 <br>Solution Code: [54_spiral_matrix.py](./54_spiral_matrix.py).
+
+## 55.Jump Game
+<br>Given an array of non-negative integers, you are initially positioned at the first index of the array.
+Each element in the array represents your maximum jump length at that position.
+Determine if you are able to reach the last index.
+<br>Solution Code: [55_jump_game.py](./55_jump_game.py).
