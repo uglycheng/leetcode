@@ -396,3 +396,7 @@ Given an integer n, return the number of distinct solutions to the n-queens p
 ## 53.Maximum Subarray
 <br>Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 <br>Solution Code: [53_maximum_subarray.py](./53_maximum_subarray.py).
+
+## 54.Spiral Matrix
+<br>Given a matrix of m x n elements (m rows, n columns), return all elements of the matrix in spiral order.
+<br>Solution Code: [54_spiral_matrix.py](./54_spiral_matrix.py).
