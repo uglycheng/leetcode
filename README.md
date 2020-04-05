@@ -415,3 +415,9 @@ Determine if you are able to reach the last index.
 <br>Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
 You may assume that the intervals were initially sorted according to their start times.
 <br>Solution Code: [57_insert_interval.py](./57_insert_interval.py).
+
+## 58.Length of Last Word
+<br>Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word (last word means the last appearing word if we loop from left to right) in the string.
+If the last word does not exist, return 0.
+<br>Note: A word is defined as a maximal substring consisting of non-space characters only.
+<br>Solution Code: [58_length_of_last_word.py](./58_length_of_last_word.py).
