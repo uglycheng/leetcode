@@ -410,3 +410,8 @@ Determine if you are able to reach the last index.
 ## 56.Merge Intervals
 <br>Given a collection of intervals, merge all overlapping intervals.
 <br>Solution Code: [56_merged_intervals.py](./56_merged_intervals.py).
+
+## 57.Insert Interval
+<br>Given a set of non-overlapping intervals, insert a new interval into the intervals (merge if necessary).
+You may assume that the intervals were initially sorted according to their start times.
+<br>Solution Code: [57_insert_interval.py](./57_insert_interval.py).
