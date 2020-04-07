@@ -421,3 +421,7 @@ You may assume that the intervals were initially sorted according to their start
 If the last word does not exist, return 0.
 <br>Note: A word is defined as a maximal substring consisting of non-space characters only.
 <br>Solution Code: [58_length_of_last_word.py](./58_length_of_last_word.py).
+
+## 59. Spiral Matrix II
+<br>Given a positive integer n, generate a square matrix filled with elements from 1 to n<sup>2</sup> in spiral order.
+<br>Solution Code: [54_spiral_matrix_2.py](./54_spiral_matrix_2.py).
