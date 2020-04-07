@@ -422,6 +422,23 @@ If the last word does not exist, return 0.
 <br>Note: A word is defined as a maximal substring consisting of non-space characters only.
 <br>Solution Code: [58_length_of_last_word.py](./58_length_of_last_word.py).
 
-## 59. Spiral Matrix II
+## 59.Spiral Matrix II
 <br>Given a positive integer n, generate a square matrix filled with elements from 1 to n<sup>2</sup> in spiral order.
-<br>Solution Code: [54_spiral_matrix_2.py](./54_spiral_matrix_2.py).
+<br>Solution Code: [59_spiral_matrix_2.py](./59_spiral_matrix_2.py).
+
+## 60.Permutation Sequence
+<br>The set [1,2,3,...,n] contains a total of n! unique permutations.
+<br>By listing and labeling all of the permutations in order, we get the following sequence for n = 3:
+
+1.  "123"
+2. "132"
+3. "213"
+4. "231"
+5. "312"
+6. "321"
+
+<br>Given n and k, return the kth permutation sequence.
+<br>**Note:**
+<br>Given n will be between 1 and 9 inclusive.
+<br>Given k will be between 1 and n! inclusive.
+<br>Solution Code: [60_permutation_sequence.py](./60_permutation_sequence.py).
