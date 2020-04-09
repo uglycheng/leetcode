@@ -442,3 +442,7 @@ If the last word does not exist, return 0.
 <br>Given n will be between 1 and 9 inclusive.
 <br>Given k will be between 1 and n! inclusive.
 <br>Solution Code: [60_permutation_sequence.py](./60_permutation_sequence.py).
+
+## 61.Rotate List
+<br>Given a linked list, rotate the list to the right by k places, where k is non-negative.
+<br>Solution Code: [61_rotate_list.py](./61_rotate_list.py).
