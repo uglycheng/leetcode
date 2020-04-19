@@ -24,6 +24,7 @@ These are solutions for some leetcode contest problems written in Python. Proble
 * arr has exactly n integers.
 * 1 <= arr[i] <= m where (0 <= i < n).
 * After applying the mentioned algorithm to arr, the value search_cost is equal to k.
+
 <br>Return the number of ways to build the array arr under the mentioned conditions. As the answer may grow large, the answer must be computed modulo 10<sup>9</sup> + 7.
 <br>Solution Code: [5391_build_array_where_you_can_find_the_maximum_exactly_k_comparisons.py](./5391_build_array_where_you_can_find_the_maximum_exactly_k_comparisons.py)
 
