@@ -206,13 +206,13 @@ k is a positive integer and is less than or equal to the length of the linked li
 ## 26.Remove Duplicates from Sorted Array
 <br>Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.
 <br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
-<br>Solution Code: [26_remove_duplicates_from_sorted_array.py](./26_remove_duplicates_from_sorted_array.py). 
+<br>Solution Code: [26_remove_duplicates_from_sorted_array.py](./Array/26_remove_duplicates_from_sorted_array.py). 
 
 ## 27.Remove Element
 <br>Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 <br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 <br>The order of elements can be changed. It doesn't matter what you leave beyond the new length.
-<br>Solution Code: [27_remove_element.py](./27_remove_element.py). 
+<br>Solution Code: [27_remove_element.py](./Array/27_remove_element.py). 
 
 ## 28.Implement strStr()
 <br>Implement strStr().Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
@@ -330,7 +330,7 @@ The replacement must be in-place and use only constant extra memory.
 
 ## 41.First Missing Positive
 <br>Given an unsorted integer array, find the smallest missing positive integer.
-<br>Solution Code: [41_first_missing_positive.py](./41_first_missing_positive.py).
+<br>Solution Code: [41_first_missing_positive.py](./Array/41_first_missing_positive.py).
 
 ## 42.Trapping Rain Water
 <br>Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
@@ -446,3 +446,18 @@ If the last word does not exist, return 0.
 ## 61.Rotate List
 <br>Given a linked list, rotate the list to the right by k places, where k is non-negative.
 <br>Solution Code: [61_rotate_list.py](./61_rotate_list.py).
+
+## 80.Remove Duplicates from Sorted Array II
+<br>Given a sorted array nums, remove the duplicates in-place such that duplicates appeared at most twice and return the new length.
+<br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
+<br>Solution Code: [80_remove_duplicates_from_sorted_array_2.py](./Array/80_remove_duplicates_from_sorted_array_2.py).
+
+## 189.Rotate Array
+<br>Given an array, rotate the array to the right by k steps, where k is non-negative.
+<br>Solution Code: [189_rotate_array.py](./Array/189_rotate_array.py).
+
+## 299.Bulls and Cows
+<br>You are playing the following Bulls and Cows game with your friend: You write down a number and ask your friend to guess what the number is. Each time your friend makes a guess, you provide a hint that indicates how many digits in said guess match your secret number exactly in both digit and position (called "bulls") and how many digits match the secret number but locate in the wrong position (called "cows"). Your friend will use successive guesses and hints to eventually derive the secret number.
+<br>Write a function to return a hint according to the secret number and friend's guess, use A to indicate the bulls and B to indicate the cows. 
+<br>Please note that both secret number and friend's guess may contain duplicate digits.
+<br>Solution Code: [299_bulls_and_cows.py](./Array/299_bulls_and_cows.py).
