@@ -452,6 +452,18 @@ If the last word does not exist, return 0.
 <br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 <br>Solution Code: [80_remove_duplicates_from_sorted_array_2.py](./Array/80_remove_duplicates_from_sorted_array_2.py).
 
+## 134.Gas Station
+<br>There are N gas stations along a circular route, where the amount of gas at station i is gas[i].
+<br>You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from station i to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.
+<br>Return the starting gas station's index if you can travel around the circuit once in the clockwise direction, otherwise return -1
+<br>**Note:**
+
+* If there exists a solution, it is guaranteed to be unique.
+* Both input arrays are non-empty and have the same length.
+* Each element in the input arrays is a non-negative integer.
+
+<br>Solution Code: [134_gas_station.py](./Array/134_gas_station.py).
+
 ## 189.Rotate Array
 <br>Given an array, rotate the array to the right by k steps, where k is non-negative.
 <br>Solution Code: [189_rotate_array.py](./Array/189_rotate_array.py).
@@ -461,3 +473,6 @@ If the last word does not exist, return 0.
 <br>Write a function to return a hint according to the secret number and friend's guess, use A to indicate the bulls and B to indicate the cows. 
 <br>Please note that both secret number and friend's guess may contain duplicate digits.
 <br>Solution Code: [299_bulls_and_cows.py](./Array/299_bulls_and_cows.py).
+
+
+
