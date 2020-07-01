@@ -452,6 +452,10 @@ If the last word does not exist, return 0.
 <br>Do not allocate extra space for another array, you must do this by modifying the input array in-place with O(1) extra memory.
 <br>Solution Code: [80_remove_duplicates_from_sorted_array_2.py](./Array/80_remove_duplicates_from_sorted_array_2.py).
 
+## 118.Pascal's Triangle
+<br>Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+<br>Solution Code: [118_pascal_triangle.py](./Array/118_pascal_triangle.py)
+
 ## 134.Gas Station
 <br>There are N gas stations along a circular route, where the amount of gas at station i is gas[i].
 <br>You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from station i to its next station (i+1). You begin the journey with an empty tank at one of the gas stations.
