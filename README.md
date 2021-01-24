@@ -478,5 +478,19 @@ If the last word does not exist, return 0.
 <br>Please note that both secret number and friend's guess may contain duplicate digits.
 <br>Solution Code: [299_bulls_and_cows.py](./Array/299_bulls_and_cows.py).
 
+## 5662. Change Minimum Characters to Satisfy One of Three Conditions
+<br>You are given two strings a and b that consist of lowercase letters. In one operation, you can change any character in a or b to any lowercase letter.
+<br>Your goal is to satisfy one of the following three conditions:
+
+* Every letter in a is strictly less than every letter in b in the alphabet.
+* Every letter in b is strictly less than every letter in a in the alphabet.
+* Both a and b consist of only one distinct letter.
+
+<br>Return the minimum number of operations needed to achieve your goal.
+
+## 5663. Find Kth Largest XOR Coordinate Value
+<br>You are given a 2D matrix of size m x n, consisting of non-negative integers. You are also given an integer k.
+<br>The value of coordinate (a, b) of the matrix is the XOR of all matrix[i][j] where 0 <= i <= a < m and 0 <= j <= b < n (0-indexed).
+<br>Find the kth largest value (1-indexed) of all the coordinates of matrix.
 
 
